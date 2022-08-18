@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning web development using .NET Core and C# with ASP.NET.
 - 🌱 I’m currently learning C# and HTML with CSS.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 Thanks
+- 📫 Thanks to you!
 
 <!---
 rhtmishra61/rhtmishra61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
